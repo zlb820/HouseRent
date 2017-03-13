@@ -8,3 +8,7 @@
 
 #项目技术
 * 项目主要采用jQuery，Easy-UI，Hibernate，Spring，SpringMVC，JSP，百度地图API等技术来进行整个网站的开发
+
+#互相讨论
+
+email：bilyzhang820@gmail.com
