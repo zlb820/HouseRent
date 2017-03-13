@@ -1,0 +1,31 @@
+body{
+	min-width:1324px;
+}
+.titleMenu{
+	width:100%;
+	/*height:70px;*/
+}
+.cell01{
+	height:85px;
+}
+.thumb{
+	width:100px;
+	height:100px;
+	float:left;
+	margin-left:15px;
+}
+#detail_basicInfo{
+	width:80%;
+}
+#Detail_rightFloat{
+	width:12%;
+	position:absolute;
+	/*top:-4000px;
+	left:1050px;*/
+	top:705px;
+	right:120px;
+	z-index: 3;
+}
+.store_Ulinfo li{
+	list-style:none;
+}

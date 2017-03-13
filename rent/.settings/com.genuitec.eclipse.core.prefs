@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/isomorphic,WebRoot/WEB-INF/jsp/js,WebRoot/manage,WebRoot/jsp/js,WebRoot/WEB-INF/manage/js
+validator.Unchecked=
